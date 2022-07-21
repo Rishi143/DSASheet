@@ -3,7 +3,7 @@ package com.dsa._1arrays._1easy;
 import java.util.Map;
 import java.util.HashMap;
 
-public class TwoSum {
+public class _1TwoSum {
     /*
     *
     * Add an element to a hash map
