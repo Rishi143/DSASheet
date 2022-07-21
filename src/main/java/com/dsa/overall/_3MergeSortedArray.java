@@ -1,4 +1,4 @@
-package com.dsa._1arrays._1easy;
+package com.dsa.overall;
 
 public class _3MergeSortedArray {
     /*
