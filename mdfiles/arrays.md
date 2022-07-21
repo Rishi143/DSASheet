@@ -1,12 +1,12 @@
-Array 
+**Array**
 
-Easy 
+**Easy**
 
-**Problem 1** :- 1 Two Sum 
+*Problem 1 :- 1 Two Sum*
 
 Link: https://leetcode.com/problems/two-sum/ 
 
-Statement : 
+*Statement:*
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -29,7 +29,7 @@ If present store their indexes in an result array/set/list and break there
 
 Else add the element as key and index as value in the hashmap 
 
-Code: https://github.com/Rishi143/DSASheet/blob/master/src/main/java/com/dsa/overall/_1TwoSum.java
+*Code:* https://github.com/Rishi143/DSASheet/blob/master/src/main/java/com/dsa/overall/_1TwoSum.java
 
 TC:O(N) SC: O(N) 
 
@@ -41,7 +41,7 @@ TC is time complexity and SC is space complexity
 
 Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-Statement: 
+*Statement:*
 
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
 
@@ -67,7 +67,7 @@ TC: O(n) and SC:O(1)
 
 Link: https://leetcode.com/problems/merge-sorted-array/
 
-Statement:
+*Statement:*
 
 You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
 
